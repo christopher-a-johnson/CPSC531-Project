@@ -1,0 +1,1 @@
+#Pricing Alert Project first python application
